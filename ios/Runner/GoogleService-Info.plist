@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1054755416461-edca94ql9pfn0dgbpokue5a5at4ufjkn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1054755416461-edca94ql9pfn0dgbpokue5a5at4ufjkn</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1054755416461-9o1eaunj1gq4q6qte047775hslkdsdeh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAIQzqc3tIko7mUM4aBJuif2rZvIYC_Rj4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1054755416461</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.rentManager</string>
+	<key>PROJECT_ID</key>
+	<string>tanglevr</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tanglevr.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1054755416461:ios:af2b09d6680258dedb75c4</string>
+	<key>DATABASE_URL</key>
+	<string>https://tanglevr-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
