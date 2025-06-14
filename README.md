@@ -1,16 +1,62 @@
-# rent_manager
+# 🏢 Rent Management System
 
-A new Flutter project.
+A dual-interface rent management solution built to streamline the process of managing rental properties, renters, and their payments. The system consists of two apps:
 
-## Getting Started
+1. **Dashboard App (Admin Panel)** – for landlords or property managers to manage rooms, renters, billing, and payments.
+2. **Renter App** – for renters to view their dues, make payments, and access their rental information.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🎯 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🧑‍💼 Dashboard App (Admin Panel)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Add, edit, or delete renter details.
+- Add new rooms and set availability.
+- Define multiple payment methods (e.g., UPI, cash, bank transfer).
+- Generate bills:
+  - Monthly Rent
+  - Electricity Charges
+  - Any additional or custom charges
+- Track and approve payments made by renters.
+- Access full renter and billing history.
+
+### 🧑‍💻 Renter App
+
+- View pending dues and upcoming bills.
+- Make payments using supported methods.
+- Track payment history and get status updates.
+- View rental and personal information.
+- Receive confirmation once payment is approved by admin.
+
+---
+
+## 🛠️ Tech Stack
+
+Update this based on your actual implementation:
+
+**Frontend** (for both apps):
+- Flutter
+- Firebase 
+
+**Backend** (optional or if implemented):
+- Firebase Firestore or Realtime DB
+- Firebase Authentication
+- Firebase Cloud Functions 
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK installed
+- Dart SDK
+- Firebase CLI (if using Firebase)
+- Android Studio or VS Code
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/rent-management.git
+cd rent-management
