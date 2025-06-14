@@ -58,5 +58,5 @@ Update this based on your actual implementation:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/rent-management.git
+git clone https://github.com/Gautam-Raaz/Rent-Manager.git
 cd rent-management
