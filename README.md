@@ -5,6 +5,12 @@ A dual-interface rent management solution built to streamline the process of man
 1. **Dashboard App (Admin Panel)** – for landlords or property managers to manage rooms, renters, billing, and payments.
 2. **Renter App** – for renters to view their dues, make payments, and access their rental information.
 
+## 📦 Download APK
+
+You can download the latest release APK from the link below:
+
+🔗 **[Download Dating App APK](https://github.com/Gautam-Raaz/Rent-Manager/releases/download/v1.0.0/app-release.apk)**
+
 ---
 
 ## 🎯 Features
