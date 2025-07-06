@@ -9,7 +9,7 @@ A dual-interface rent management solution built to streamline the process of man
 
 You can download the latest release APK from the link below:
 
-🔗 **[Download Dating App APK](https://github.com/Gautam-Raaz/Rent-Manager/releases/download/v1.0.0/app-release.apk)**
+🔗 **[Download Rent Manager App APK](https://github.com/Gautam-Raaz/Rent-Manager/releases/download/v1.0.0/app-release.apk)**
 
 ---
 
